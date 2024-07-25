@@ -1,0 +1,9 @@
+span.numero {
+  color: orange;
+  padding: 10px;
+}
+
+.mt-4 {
+  display: flex;
+  justify-content: center;
+}
