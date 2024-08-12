@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "category": "ps2",
+    "name": "Dragon ball Z Budokai",
+    "price": 39,
+    "description": "Acompaña a Goku y sus amigos en sus aventuras y batallas",
+    "pictureUrl": "../src/assets/dragon-ball-z-budokai.jpg"
+  },
+  {
+    "id": 2,
+    "category": "ps3",
+    "name": "Dragon Ball Xenoverse",
+    "price": 49,
+    "description": "Algo ha cambiado en la linea temporal de Goku y hay que poner la historia en orden!",
+    "pictureUrl": "../src/assets/Dragon_Ball_Xenoverse.webp"
+  },
+  {
+    "id": 3,
+    "category": "ps4",
+    "name": "Dragon Ball Xenoverse II",
+    "price": 44,
+    "description": "De nuevo han aparecido enemigos que alteran el tiempo. Es hora de pelear batallas epicas nuevamente.",
+    "pictureUrl": "../src/assets/Dragon_Ball_Xenoverse_2.webp"
+  },
+  {
+    "id": 4,
+    "category": "ps5",
+    "name": "Dragon Ball Sparking Zero",
+    "price": 69,
+    "description": "Una nueva generacion de peleas ha llegado. Disfruta de las mejores peleas de Dragon Ball Z",
+    "pictureUrl": "../src/assets/dragon-ball-sparking-zero.jpg"
+  }
+]

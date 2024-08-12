@@ -7,3 +7,8 @@ span.numero {
   display: flex;
   justify-content: center;
 }
+
+.carta {
+  display: block;
+  gap: 10px;
+}
